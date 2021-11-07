@@ -1,2 +1,5 @@
 # AspnetMicroservices
-AspnetMicroservices - Udemy Course by Mehmet Ozkaya
+AspnetMicroservices
+
+## Artificial Intelligence
+You may not use this repository for feeding your Artifical Intelligence (AI) or Machine Learning (ML) purposes
